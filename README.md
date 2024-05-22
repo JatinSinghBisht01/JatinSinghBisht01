@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey!!! I am Jatin Singh Bisht<br>A passionate Web Developer from India...
+Hey!!! I am Jatin Singh Bisht<br>A passionate Web-App Developer from India...
 
 
 ## 🌐 Socials:
