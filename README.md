@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jatin Singh Bisht
 =========================================================================================================================================
 
-Web & App Developer | Tech Enthusiast | Lifelong Learner
+Software Engineer | Tech Enthusiast | Lifelong Learner
 -------------------
 
 * 🌍  Location: India
